@@ -10,6 +10,7 @@ logistic_fun <- function(t) {
   
 }
 
+#exp(7.53849)
 N0 <- 1879 #
   
 r <- 0.031 #
